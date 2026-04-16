@@ -1,6 +1,6 @@
 # Inventory Management System
 
-![Dashboard](https://picsum.photos/seed/inventory/1200/400)
+![Dashboard](./screenshot/5.png)
 
 **Inventory Management System** is a professional, full-stack inspired IT asset management application designed for modern IT departments. It streamlines the tracking of hardware components, provides real-time statistics, and offers a collaborative environment for IT teams.
 
@@ -61,7 +61,7 @@
 
 | Dashboard | Inventory | Category Management |
 |-----------|-----------|---------------------|
-| ![Dashboard](https://picsum.photos/seed/dash/400/300) | ![Inventory](https://picsum.photos/seed/inv/400/300) | ![Categories](https://picsum.photos/seed/cat/400/300) |
+| ![Dashboard](./screenshot/1.png) | ![Login](./screenshot/3.png) | ![Categories](./screenshot/4.png) |
 
 ## ⚙️ Configuration
 
