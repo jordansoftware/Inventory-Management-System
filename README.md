@@ -38,7 +38,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/it-pro.git
+   git clone https://github.com/your-username/Inventory-Management-System.git
    cd it-pro
    ```
 
